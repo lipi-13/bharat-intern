@@ -1,0 +1,53 @@
+body
+  {background-image:url('https://avaazdo.s3.amazonaws.com/original_5c6ecb2a27cab.jpeg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-position:0px,10px;
+   width:100%;
+   
+   }
+table{
+  width:1100px;
+}
+th{
+  #border:groove black 2px;
+  margin:1px;
+  padding:1px;
+  #background:linear-gradient(to left,#263238,#37474F);
+  color:whitesmoke;
+  font-family:calibri;
+  font-size:22px;
+}
+p{
+  font-size:80px;
+  align-content:left;
+  font-family:aloha;
+}
+img{
+  height:189px;
+  width:270px;
+  align-items: last baseline;
+}
+.scale:hover { 
+  transform:scale(1.2,1.2);
+}
+.column {
+  float: left;
+  width: 20%;
+  padding: 0px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+a{
+  color:red;
+  text-decoration:none;
+  font-size:45px;
+  text-align:left;
+  #background-color:black;
+  padding:4px;
+  margin:2px;
+}
