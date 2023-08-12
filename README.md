@@ -1,2 +1,2 @@
 # bharat-intern
-All the projects assigned
+All the projects assigned are attached here. 
